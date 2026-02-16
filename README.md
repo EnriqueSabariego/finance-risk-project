@@ -97,5 +97,5 @@ All visualizations are embedded in the notebook (`cac40-risk-analysis.ipynb`) fo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/EnriqueSabariego/finance-risk-project.git
-cd finance-risk-project
+git clone https://github.com/EnriqueSabariego/cac40-risk-analysis.git
+cd cac40-risk-analysis
